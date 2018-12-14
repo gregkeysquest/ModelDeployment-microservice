@@ -5,15 +5,15 @@ class Run {
 	static devMode = true
 	static deployScriptNameVersion = "MLeapMicroserviceDeploy v1.0"
 	
-	static repoCreds="gregkeysquest:Beagle7_"
+	static repoCreds="xxx"
 	
 	static deployHostPort="localhost:65327"
 	
 	static hdfsRegistryRoot="/user/model_registry"
-	static hdfsHostName="gkeys0.field.hortonworks.com"
+	static hdfsHostName="xxx"
 	
-	static atlasCreds = "admin:atlas-admin1"
-	static atlasHost="gkeys1.field.hortonworks.com"
+	static atlasCreds = "xxx"
+	static atlasHost="xxx"
 	
 	static processBuilder = null
 	
